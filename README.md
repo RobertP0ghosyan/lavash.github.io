@@ -28,4 +28,3 @@ The reservation form validates locally. Until a backend exists, it never claims 
 
 The layout is designed for 360, 768, 1024 and 1440 px widths and honours reduced-motion preferences. Serve the entire project folder, not `index.html` alone, so the local `assets/` paths resolve.
 
-
